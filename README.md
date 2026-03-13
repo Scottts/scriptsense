@@ -24,8 +24,8 @@
 ---
 
 > [!NOTE]
-> This repository is the **public hub** for ScriptSense. It is used for documentation, issue reporting, security reports, and updates.  
-> The full plugin source is currently **closed-source**.
+> This repository is the **public hub** for ScriptSense, which is used for documentation, issue reporting, security reports, and updates.  
+> The full plugin source is currently **not public**.
 
 ## What is ScriptSense?
 
@@ -35,7 +35,11 @@ ScriptSense is a free Roblox Studio plugin designed to make Luau development mor
 
 ScriptSense is maintained as a personal project with limited availability, so the full plugin source is not currently public.
 
-To improve trust and long-term resilience, some underlying backbone components may be released separately in the future.
+To improve trust and long-term resilience, some underlying backbone components may be released separately in the future to improve transparency and long-term maintainability.
+
+## Support
+
+ScriptSense is maintained as a personal project, so responses, fixes, and updates may take time.
 
 ## Project Hub
 
